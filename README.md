@@ -23,3 +23,7 @@ The data is from an Excel file that can be downloaded [here](https://github.com/
 ### Forecasting
 
 ![image](https://github.com/jidafan/Superstore-PowerBI-Dashboard/assets/141703009/4022083b-954a-438f-a7b0-10a6d6bb07da)
+
+## Conclusion
+
+Through the analysis of the superstore sales dataset and our implementation of forecasting using Power BI. This project provides valuable insights for business owners and stakeholders. By helping those to understand customer behaviour, and identifying top-performing products, through this dashboard businesses can optimize their operations and improve the growth rate of their companies.
