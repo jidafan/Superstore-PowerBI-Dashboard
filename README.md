@@ -16,3 +16,10 @@ The data is from an Excel file that can be downloaded [here](https://github.com/
 
 ## PowerBI Dashboard
 
+### Dashboard
+
+![image](https://github.com/jidafan/Superstore-PowerBI-Dashboard/assets/141703009/391166f8-e375-4ab9-bc11-96b1b47f678e)
+
+### Forecasting
+
+![image](https://github.com/jidafan/Superstore-PowerBI-Dashboard/assets/141703009/4022083b-954a-438f-a7b0-10a6d6bb07da)
